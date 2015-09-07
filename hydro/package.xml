@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+    <name>ir_drivers</name>
+    <version>:{version}</version>
+    <description>
+        ir drivers third party code for Maggie robot
+    </description>
+
+    <maintainer email="social.robots@uc3m.es">Social Robots</maintainer>
+
+    <buildtool_depend>cmake</buildtool_depend>
+    <run_depend>catkin</run_depend>
+
+    <export>
+        <build_type>cmake</build_type>
+    </export>
+</package>
