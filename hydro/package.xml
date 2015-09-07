@@ -7,6 +7,8 @@
     </description>
 
     <maintainer email="social.robots@uc3m.es">Social Robots</maintainer>
+    
+    <license>Binary Only</license>
 
     <buildtool_depend>cmake</buildtool_depend>
     <run_depend>catkin</run_depend>
