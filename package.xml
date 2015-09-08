@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>ir_trans_drivers</name>
-    <version>0.0.2</version>
+    <version>0.0.4</version>
     <description>
         irtrans drivers third party code for Maggie robot
     </description>
