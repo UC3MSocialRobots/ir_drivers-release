@@ -1,6 +1,11 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package ir_drivers
+Changelog for package ir_trans_drivers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0.0.2 (2015-09-08)
+-----------
+* updated name
+* Contributors: Raul Perula-Martinez
 
 0.0.1 (2015-09-07)
 ------------------
