@@ -19,5 +19,5 @@ tracks:
     release_tag: :{version}
     ros_distro: hydro
     vcs_type: git
-    vcs_uri: https://github.com/UC3MSocialRobots/ir_drivers.git
+    vcs_uri: https://github.com/UC3MSocialRobots/ir_trans_drivers.git
     version: :{ask}

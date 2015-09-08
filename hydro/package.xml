@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package>
-    <name>ir_drivers</name>
+    <name>ir_trans_drivers</name>
     <version>:{version}</version>
     <description>
-        ir drivers third party code for Maggie robot
+        irtrans drivers third party code for Maggie robot
     </description>
 
     <maintainer email="social.robots@uc3m.es">Social Robots</maintainer>
