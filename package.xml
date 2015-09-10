@@ -1,26 +1,19 @@
 <?xml version="1.0"?>
 <package>
-	<name>ir_trans_drivers</name>
-	<version>0.0.4</version>
-	<description>
-		irtrans drivers third party code for Maggie robot
-	</description>
+    <name>ir_trans_drivers</name>
+    <version>0.0.4</version>
+    <description>
+        irtrans drivers third party code for Maggie robot
+    </description>
 
+    <maintainer email="social.robots@uc3m.es">Social Robots</maintainer>
+    
+    <license>Binary Only</license>
 
-	<!-- One maintainer tag required, multiple allowed, one person per tag -->
-	<maintainer email="social.robots@uc3m.es">Social Robots</maintainer>
+    <buildtool_depend>cmake</buildtool_depend>
+    <run_depend>catkin</run_depend>
 
-
-	<!-- One license tag required, multiple allowed, one license per tag -->
-	<license>Binary Only</license>
-
-
-	<buildtool_depend>cmake</buildtool_depend>
-	<run_depend>catkin</run_depend>
-
-
-	<!-- The export tag contains other, unspecified, tags -->
-	<export>
-		<build_type>cmake</build_type>
-	</export>
+    <export>
+        <build_type>cmake</build_type>
+    </export>
 </package>
