@@ -1,0 +1,26 @@
+From 2f00c32cb204b5950980bcd8243b3161ecf994b8 Mon Sep 17 00:00:00 2001
+From: Raul Perula-Martinez <raul.perula@uc3m.es>
+Date: Thu, 10 Sep 2015 12:35:36 +0200
+Subject: [PATCH] Added install rule for package.xml
+
+---
+ CMakeLists.txt |    3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/CMakeLists.txt b/CMakeLists.txt
+index 587f06f..9370525 100644
+--- a/CMakeLists.txt
++++ b/CMakeLists.txt
+@@ -1,6 +1,9 @@
+ cmake_minimum_required(VERSION 2.8.3)
+ project(ir_trans_drivers)
+ 
++# Install catkin package.xml
++install(FILES package.xml DESTINATION share/ir_trans_drivers)
++
+ # install third parties
+ execute_process(COMMAND sudo bash install.bash
+     WORKING_DIRECTORY ${PROJECT_SOURCE_DIR}/irtrans/IRTrans_shlib/
+-- 
+1.7.9.5
+
