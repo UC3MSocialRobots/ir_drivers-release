@@ -1,4 +1,4 @@
-From 2f00c32cb204b5950980bcd8243b3161ecf994b8 Mon Sep 17 00:00:00 2001
+From 609505107ef30193a7cec893097d19fdf2e16c99 Mon Sep 17 00:00:00 2001
 From: Raul Perula-Martinez <raul.perula@uc3m.es>
 Date: Thu, 10 Sep 2015 12:35:36 +0200
 Subject: [PATCH] Added install rule for package.xml
