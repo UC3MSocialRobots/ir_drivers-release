@@ -1,3 +1,24 @@
+## ir_trans_drivers (hydro) - 0.0.4-3
+
+The packages in the `ir_trans_drivers` repository were released into the `hydro` distro by running `/usr/local/bin/bloom-release --rosdistro hydro --track hydro ir_trans_drivers` on `Fri, 18 Sep 2015 08:06:54 -0000`
+
+The `ir_trans_drivers` package was released.
+
+Version of package(s) in repository `ir_trans_drivers`:
+- upstream repository: https://github.com/UC3MSocialRobots/ir_trans_drivers.git
+- release repository: https://github.com/UC3MSocialRobots/ir_trans_drivers-release.git
+- rosdistro version: `0.0.4-0`
+- old version: `0.0.4-2`
+- new version: `0.0.4-3`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.37`
+
+
 ## ir_trans_drivers (hydro) - 0.0.4-0
 
 The packages in the `ir_trans_drivers` repository were released into the `hydro` distro by running `/usr/local/bin/bloom-release --rosdistro hydro --track hydro ir_trans_drivers` on `Tue, 08 Sep 2015 14:04:24 -0000`
